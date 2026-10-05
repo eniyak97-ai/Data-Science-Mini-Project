@@ -180,6 +180,6 @@ DOI: https://doi.org/10.24432/C56C76
 
 ## 👩‍💻 Author
 
-**[Your Name]**
+**[Eniya K]**
 
 Module 5 – Data Science Mini Project
